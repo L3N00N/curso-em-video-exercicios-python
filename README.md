@@ -1,2 +1,2 @@
-# curso-em-video-exercicios-python mundo 01
-Exercicios propostos do site curso em video do curso de python mundo 01
+# curso-em-video-exercicios-python
+Exercicios propostos do site curso em video do curso de python
