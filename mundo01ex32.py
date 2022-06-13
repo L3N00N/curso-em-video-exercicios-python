@@ -1,3 +1,4 @@
+#Exercício Python 31: Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
 from datetime import date
 ano= int(input('digite um ano, digitee 0 para analisar o ano atual'))
 if ano==0:
